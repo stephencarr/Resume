@@ -1,6 +1,6 @@
 Description
 ======
-A pseudo art project to retroactively chronical the progress of my career through a versioned résumé using Github for versioning and some little Git tricks to fake the commit dates.
+A pseudo art project to retroactively chronicle the progress of my career through a versioned résumé using Github for versioning and some little Git tricks to fake the commit dates.
 
 Implementation
 -----
