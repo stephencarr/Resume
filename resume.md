@@ -1,5 +1,5 @@
 Stephen Carr
 =====
 
-Resume
+Résumé
 -----
